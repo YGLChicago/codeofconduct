@@ -1,6 +1,6 @@
 # Code & Coffee: Uptown Brigade
 ## How to Organize
-### Inspired by and adapted from (Code & Coffee: Vancouver)[https://github.com/Code-and-Coffee-YVR]
+### Inspired by and adapted from [Code & Coffee: Vancouver](https://github.com/Code-and-Coffee-YVR)
 
 This repo exists to help ensure that Code & Coffee is run consistently each time, to help onboard new organizers, and to share information with other groups.
 
