@@ -9,10 +9,11 @@ Learning how to effectively run a Meetup has taken many months. It would be a sh
 Feel free to fork this repo and adapt it to your own purposes! We also would love to learn from the experiences of other organizations! If you have any advice, please submit a pull request!
 
 ## Manifesto
-Check out the [C&C Manifesto](https://github.com/Code-and-Coffee-Uptown-Brigade/how-to-organize/blob/master/Manifesto.md). We adapted it from
+Check out the [C&C Manifesto](https://github.com/Code-and-Coffee-Uptown-Brigade/how-to-organize/blob/master/Manifesto.md). We adapted it from [Vancouver](https://github.com/Code-and-Coffee-YVR)
 
 ## How to find us
-- [Meetup](https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/events/242972147/#event-comments-section)
-- [Twitter (@codecoffeeyvr)](https://twitter.com/codecoffeeyvr)
-- [cacuptown Slack](https://cacuptown.slack.com)
+- [Meetup](https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/)
+- [uptown.codes](http://uptown.codes)
+- [Twitter (@codeuptown)](https://twitter.com/codeuptown)
+- [Slack](https://cacuptown.slack.com)
 - [GitHub](https://github.com/Code-and-Coffee-Uptown-Brigade/)
