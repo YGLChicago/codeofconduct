@@ -1,6 +1,6 @@
 # WIFI
-- At Emerald City: Join ECityGuest
-- Password: Wilson1224
+- At Emerald City Join: `ECityGuest`
+- Password: `Wilson1224`
 
 ## Housekeeping
 - [ ] This is a coffeeshop
