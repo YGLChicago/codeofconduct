@@ -2,6 +2,11 @@
 - At Emerald City: Join ECityGuest
 - Password: Wilson1224
 
+## Housekeeping
+- [ ] This is a coffeeshop
+  - Please respect other patrons
+  - Please buy something
+
 # Mission Statement
 - [ ] Equal and welcoming
 - [ ] Community Stage
@@ -16,11 +21,6 @@
 - Why are you here? / What are you hoping to get out of this?
 - Technology stacks? / Using or hoping to learn. (OR what's your favorite text editor?)
 - Fun fact about yourself.
-
-## Housekeeping
-- [ ] This is a coffeeshop
-  - Please respect other patrons
-  - Please buy something
 
 ### Slack Team
 - [ ] We have this team on [Slack](https://cacuptown.slack.com)
