@@ -3,7 +3,6 @@ codeofconduct
 
 #### Young Government Leaders: Chicago's Code of Conduct
 ###### Adapted from the <a href="https://github.com/codeforamerica/codeofconduct">CfA Code of Conduct</a>.
-_not affiliated with <a href="https://codeforamerica.org">Code for America</a>_
 
 The YGL Chicago community expects that YGL events, and digital forums:
 
@@ -20,7 +19,7 @@ The YGL Chicago community expects that YGL events, and digital forums:
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 13. Adhere to laws, regulations, and guidelines regarding conduct and demeanor becoming of public employees.
-14. Keep official business and government data off our digital platforms without prior authorization from the executive board. 
+14. Keep official business and government data off our digital platforms without prior authorization from the executive board.
 
 YGL Chicago reserves the right to ask anyone in violation of these policies not to participate in YGL Chicago network activities, events, and digital forums.
 
